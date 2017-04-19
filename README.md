@@ -1,4 +1,7 @@
-# test coverage for  [grunt-bower-concat (v1.0.0)](https://github.com/sapegin/grunt-bower-concat)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-bower-concat.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-bower-concat) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-bower-concat.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-bower-concat)
+# npmtest-grunt-bower-concat
+
+#### test coverage for  [grunt-bower-concat (v1.0.0)](https://github.com/sapegin/grunt-bower-concat)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-bower-concat.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-bower-concat) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-bower-concat.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-bower-concat)
+
 #### Automatic concatenation of installed Bower components in right order.
 
 [![NPM](https://nodei.co/npm/grunt-bower-concat.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/grunt-bower-concat)
