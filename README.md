@@ -1,6 +1,6 @@
 # npmtest-grunt-bower-concat
 
-#### test coverage for  [grunt-bower-concat (v1.0.0)](https://github.com/sapegin/grunt-bower-concat)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-bower-concat.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-bower-concat) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-bower-concat.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-bower-concat)
+#### basic test coverage for  [grunt-bower-concat (v1.0.0)](https://github.com/sapegin/grunt-bower-concat)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-bower-concat.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-bower-concat) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-bower-concat.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-bower-concat)
 
 #### Automatic concatenation of installed Bower components in right order.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-grunt-bower-concat/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-grunt-bower-concat/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-grunt-bower-concat/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-grunt-bower-concat/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-grunt-bower-concat/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-grunt-bower-concat/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-grunt-bower-concat/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-grunt-bower-concat/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-grunt-bower-concat/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-grunt-bower-concat/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-grunt-bower-concat/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-grunt-bower-concat/build/coverage.html/index.html)
 
@@ -98,7 +98,8 @@
         "pretest": "bower install",
         "test": "grunt"
     },
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "bin": {}
 }
 ```
 
